@@ -1,0 +1,19 @@
+
+: A project based on Machine Learning in Python. A dataset containing 855000 observations and 72 variables belongs to a company named XYZ Corp. Based on the data that is available during loan application, my task was to build a model to predict default in the future. This will help the company in deciding whether or not to pass the loan.
+
+A Project  Refrences : Mohammed Ali Memon (Data Analyst/Scientist)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Case Study On XYZ-Crop :
+
+Containing Discovery Costs – You do not necessarily need high volume to save on litigation
+Case Study – XYZ Corp
+XYZ Corp is the largest homebuilder in the U.S. and has a fairly small law department in comparison to other companies with similar revenues.  They operate in 29 states and the District of Columbia.  This means they rely a great deal on outside counsel and are constantly challenging them to keep costs down.
+One way to do so was to institute a new process for reviewing discovery documents in the larger cases they face around the country.  In order to get everyone on board at the same time, the process was introduced to their law firm counsel at the law department’s annual meeting of outside counsel.  At this time, outside counsel was assured they would have final say over the entire process, including which document review attorneys they would be supervising for these discovery projects.
+The first step was to choose an e-Discovery vendor who could process and host the e-data that was gathered by the XYZ Corp IT department.  A document was prepared with input from XYZ Corp lawyers, the staffing company partner and the e-Discovery vendor.  This document outlined each step of the collection, processing, review and production (basically the EDRM Model) of e-data and indicated the parties responsible for each such task.  This is the document that was given to outside counsel at the above-mentioned meeting.
+Also important to XYZ Corp was the need to have review stations on-site at the e-Discovery vendor and the ability for all parties to access the data remotely.  This allowed outside counsel to gain access to the documents at any time in order to perform their QC and eliminated the need on XYZ Corp’s part to set up the infrastructure in-house with equipment, security, space, etc…
+The results:  
+1) Preferred provider prices from XYZ Corp’s e-Discovery vendor and savings through continuous improvement based on familiarization with XYZ Corp’s gathering process and document types. 2) Major savings on review costs using attorneys at one-third the cost of outside counsel with increased efficiencies due to the ability of having the same attorneys work on subsequent cases. 3) A very positive response from outside counsel, who in many instances are relieved of the burden of staffing the document review aspect of discovery and who welcome working with experienced attorneys who are the best at what they do.  Plus, the ability to have 24/7 access to the documents and the decisions being made at the reviewer level.
+XYZ Corp has now taken the next step of hiring an in-house e-Discovery coordinator who will work with corporate personnel, especially corporate IT, to streamline the litigation hold process and improve the 
+internal document gathering process.  In addition, this individual will work with outside counsel not only in those instances where the review is “insourced” but also in instances where the law firms are spending XYZ Corp’s money on e-Discovery tasks with vendors of their choice.
